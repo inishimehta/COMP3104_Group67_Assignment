@@ -5,8 +5,11 @@ Assignment 1 - involving GitHub collaboration, branching, and continuous integra
 Group Members:
 
 **Leader**
+
 **Member1:** Elizabeth Thomas(101097106) - [Github](https://github.com/eliza2526)
+
 **Member2:**
+
 **Member3**
 
 ##Project Description:
