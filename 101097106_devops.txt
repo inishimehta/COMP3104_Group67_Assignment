@@ -7,7 +7,7 @@ containerization (e.g., Docker), orchestration (e.g., Kubernetes),
 and configuration management tools.
 
 Continuous Integration/Continuous Delivery (CI/CD): Implementing and understanding
- the CI/CD pipeline to automate the process of testing and deploying code changes.
+the CI/CD pipeline to automate the process of testing and deploying code changes.
 
 Infrastructure as Code (IaC): Learning the concept of treating
 infrastructure as code, allowing for the automated provisioning
