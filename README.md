@@ -12,10 +12,10 @@ Group Members:
 
 **Member3**
 
-##Project Description:
+## Project Description:
 This repository hosts the group assignment for COMP 3104 DevOps Course, focussing on collaborative Git workflows, branching strategies and CI/CD integration.
 
-##SetUp Instructions:
+## SetUp Instructions:
 1. Clone the repository.
 2. Switch to your branch using 'git checkout StudentID-Name.'
 3. Install any dependencies listed.
