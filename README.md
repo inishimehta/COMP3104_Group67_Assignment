@@ -7,7 +7,7 @@
 | Name           | Student ID | GitHub Username                               | Role |
 | -------------- | ---------- | --------------------------------------------- | ---- |
 | Nishi Bipin Mehta  | 101514172  | [@inishimehta](https://github.com/inishimehta) | Leader |
-| Elizabeth Thomas  | 101097106  | [@liza2526](https://github.com/eliza2526) | Collaborator |
+| Elizabeth Thomas  | 101097106  | [@eliza2526](https://github.com/eliza2526) | Collaborator |
 | Pruthvi Patel | 101411644 | [@pruthvipatel17](https://github.com/pruthvipatel17) | Collaborator |
 | Utsav Changani | 101476134 | [@utsav-1730](https://github.com/utsav-1730) | Collaborator |
 ---
@@ -58,7 +58,8 @@ Continuous
 ---
 
 ## 🚀 CI/CD Details
-The project utilizes GitHub Actions for continuous integration. The workflow is defined in `.github/workflows/github-actions-demo.yml`.
+1. The project utilizes GitHub Actions for continuous integration. The workflow is defined in `.github/workflows/github-actions-demo.yml`.
+2. The goal is to automate the build, test, and deployment processes, ensuring code quality and reducing manual intervention.
 
 ---
 
