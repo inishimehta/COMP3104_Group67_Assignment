@@ -1,0 +1,16 @@
+**Student Information**
+
+Name: Utsav Changani
+Student ID: 101476134
+
+**Academic Background**
+
+Current Program: Computer Programming and Analysis
+Year of Study: 2nd Year
+Relevant Coursework: COMP 3104 - DevOps, COMP 2147 - System Data and Analysis
+
+
+**Goals**
+
+Short-term Goal: Complete the COMP 3104 DevOps course with a high grade
+Long-term Goal: Pursue a career in cloud computing and become a certified AWS architect
