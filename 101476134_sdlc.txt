@@ -1,0 +1,47 @@
+DevOps for Software Development Life Cycle
+
+The software development life cycle (SDLC) for DevOps combines the principles and practices of both software
+ development and operations to ensure faster, more reliable, and continuous delivery of software. Here is an
+  overview of the SDLC stages in the context of DevOps:
+
+1. Plan: In this initial stage, the development team collaborates with stakeholders to define project goals,
+ requirements, and plan the development process. This includes creating a roadmap, prioritizing features,
+  estimating resources, and setting project timelines.
+
+2. Develop: During this stage, developers write code based on the requirements and design specifications.
+ DevOps teams emphasize the use of version control systems to manage code changes and ensure collaboration
+  among developers. They also follow coding best practices and conduct code reviews to maintain code quality.
+
+3. Build: The build stage involves compiling the source code into executable binaries or artifacts. 
+DevOps teams use build automation tools like Jenkins, Travis CI, or GitLab CI/CD to automate the build process. 
+This ensures consistent and reproducible builds and enables continuous integration (CI) practices.
+
+4. Test: Testing is an integral part of the DevOps SDLC. DevOps teams perform various types of testing, 
+such as unit testing, integration testing, system testing, and acceptance testing. Automated testing 
+frameworks and tools are leveraged to enable continuous testing, allowing faster feedback on code changes.
+
+5. Deploy: The deployment stage involves deploying the built artifacts to the target environments, such as 
+development, staging, and production. Infrastructure as Code (IaC) tools like Terraform or CloudFormation 
+are used to define and provision the required infrastructure resources. Continuous deployment (CD) practices 
+automate the deployment process, ensuring consistent and reliable deployments.
+
+6. Operate: Once the software is deployed, the operations team manages the running systems. Monitoring tools 
+are employed to track system health, performance, and security. DevOps teams use log aggregation and analysis 
+tools to proactively identify and resolve issues. They also focus on automating routine operational tasks, 
+such as scaling, backup, and recovery, to reduce manual effort.
+
+7. Monitor: Continuous monitoring is crucial in a DevOps SDLC. Monitoring tools capture metrics, logs, and 
+other relevant data to provide insights into the application's performance, usage, and user experience. 
+Monitoring enables teams to detect anomalies, identify bottlenecks, and make data-driven decisions to 
+improve the software.
+
+8. Iterate: DevOps promotes an iterative and incremental approach to software development. Based on 
+feedback from users and stakeholders, the development team continuously improves the software by 
+addressing bugs, adding new features, and optimizing performance. This feedback loop is crucial for 
+delivering value and meeting customer expectations.
+
+The DevOps SDLC emphasizes automation, collaboration, and continuous feedback throughout the entire 
+software development and operations process. It aims to foster a culture of shared responsibility, 
+enable faster time-to-market, and improve overall software quality.
+
+Learning DevOps improves software quality and delivery speed.

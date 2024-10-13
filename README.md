@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💻 COMP3104 (DevOps) - Group 67 Assignment 1
 
 ---
@@ -63,3 +64,8 @@ Continuous
 
 ---
 
+=======
+## COMP 3104 DevOps Group #67 Assignment 1
+Name: Utsav Changani
+Student ID: 101476134
+>>>>>>> 101476134-Utsav_Changani
