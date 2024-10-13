@@ -1,0 +1,42 @@
+SPA
+ SPA
+
+A boring technical definition for a SPA is a website that re-renders content in response to an event, like clicking a link
+or scrolling a trackpad. The application initially loads a single HTML document. As the user interacts with the page, content will
+dynamically update. This is heavily driven and made possible with the web browsers core JavaScript API. With JavaScript and the
+languages ability to perform asynchronous web requests in response to user interactions, content is dynamically rewritten.
+
+SPA’s have become an integral part of the modern webs landscape. So much so that you have Google, Facebook and even
+Uber investigating big money into open source projects like Angular and React. With the single load required to fetch that
+initial HTML document which is intended to be dynamically populated through JS events, it brings some problems that need
+addressing. One of them being the ability to operate performantly for Search Engine Optimization (SEO). Some solutions have been
+designed like having the initial document rendered server-side before it’s delivered to the client. This is known as Server-Side
+Rendering (SSR).
+
+Imagine shopping on a site like Amazon and not having to deal with page refreshes anymore. It would be a much-improved user
+experience that would most likely have a really positive impact on the time customers spend on the site. With SSR, this is can be
+made possible for more complex sites. Airbnb, the Toronto Star, Nike and the colorful and bold website of New York’s 2019 Pride
+celebration all implement SSR for their SPAs.
+
+Aside from potential SEO drawbacks, routing can be a rather complex issue to solve in a feature rich SPA. This is where the
+frameworks from tech giant heavyweights come in to play. Remember, SPAs technically only have one page, so complex
+routing involving multiple pathnames or nested routes can get messy quick.
+
+Now that SPA drawbacks have been identified, let’s get into why SPA’s are most likely to wind up on a DevOps Engineers plate.
+They are super easy to deploy and continuously version up over time. Compared to traditional monolith web apps dealing with a
+bunch of source code, we’re only really working with one index.html file at the end of the day. Along with the assets
+needed to style and populate content. These assets are typically referred to as bundles.
+
+One thing to keep in mind is that bundles can grow quickly, especially if you have a developer who’s overzealous with third-
+party dependencies. It can not only slow the applications Time to Load (TTL) but also become chaotic to maintain quickly if
+oversight is not implemented. A DevOps engineer is usually responsible for ensuring that source maps are included in the
+client-side SPA for proper monitoring as error tracking can be quite cumbersome when working with minified assets.
+
+A source map is a file that maps the transformed source to the original source, one that is legible and debug-able, opposed to the
+minified and compressed version served to the client. It enables a browser to reconstruct the original source and present the
+reconstructed original in the browser’s developer tools.
+
+With SPAs, after the initial page load no more HTML is sent over the network. Instead the application is hydrated
+with requests for data from a backend API. This means that only data typically in the form of JSON payloads is sent through
+the wire. This drastically reduces the initial TTL as we don’t have to wait for content that the user doesn’t necessarily even care
+about yet.
