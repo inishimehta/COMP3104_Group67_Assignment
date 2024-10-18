@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 💻 COMP3104 (DevOps) - Group 67 Assignment 1
 
 ---
@@ -63,9 +62,3 @@ Continuous
 2. The goal is to automate the build, test, and deployment processes, ensuring code quality and reducing manual intervention.
 
 ---
-
-=======
-## COMP 3104 DevOps Group #67 Assignment 1
-Name: Utsav Changani
-Student ID: 101476134
->>>>>>> 101476134-Utsav_Changani
